@@ -1,5 +1,5 @@
 <?php ob_start(); //  ne pas modifier
-$titre = "Exo 01 - Variables"; // Mettre le titre de la page
+$titre = "Exo 06 - Variables"; // Mettre le titre de la page
 ?>
 
 <!-- mettre votre code ici -->
