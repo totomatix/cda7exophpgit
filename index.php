@@ -412,6 +412,19 @@ $titre = "Exercices PHP"; // Mettre le titre de la page
         </div>
     </div>
 
+    <!-- Exo 30bis -->
+    <div class="col s12 m6 l4">
+        <div class="card medium teal darken-2">
+            <div class="card-content white-text">
+                <span class="card-title center-align">Exo30bis - Manipuler 2 classes</span>
+                <p>Créer 2 classes (Arme et Joueur) dans des fichiers séparés.<br>Nous allons manipuler les 2 classes.</p>
+            </div>
+            <div class="card-action">
+                <a href="exercices/exo30bis" class="valign-wrapper">exercice <i class="material-icons">arrow_forward</i></a>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 <!-- TP Armes -->
