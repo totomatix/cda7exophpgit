@@ -9,21 +9,7 @@ $titre = "Exo 22 - Formulaires"; // Mettre le titre de la page
 
 <!-- mettre votre code ici -->
 <?php
-function debug($v)
-{
-    echo "<pre>";
-    var_dump($v);
-    echo "</pre>";
-}
 
-if(isset($_POST["nombre"]) && $_POST["nombre"] !== ""){
-    echo "<p>{$_POST['nombre']} ".estPair($_POST['nombre'])."</p>";
-}
-
-function estPair(int $v): string
-{
-    return ($v%2===0) ? "est pair" : "est impair";
-}
 
 
 
